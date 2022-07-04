@@ -6,8 +6,13 @@
  
 Practice taking turns to explain the answers to these questions:
  - What is Netlify?
- - What problems does Netlify solve?
- - When would you use it?
+ -  Netify is a platform used to deploy appliication webapplcations used by developers to deploys serverless or without the backend.
+ -  
+ - What problems does Netlify solve? 
+ - it increased productivity in terms of deployment phase  multiplies productivity Netlify enables a 10x faster path to much more performant, secure, and scalable
+ 
+ - When would you use it? serverless applications static pages.
+
  - When would you not use it?
  - What are some alternatives/competitors to Netlify? (Just to know what else is out there.)
 
